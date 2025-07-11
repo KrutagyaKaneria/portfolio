@@ -320,7 +320,7 @@ export const AboutSection = forwardRef<HTMLElement>((_, ref) => {
 
               <div className="flex items-center justify-center text-gray-400">
                 <MapPin className="h-5 w-5 mr-2" />
-                <span>Faridabad, Haryana, India</span>
+                <span>Ahmedabad, Gujarat, India</span>
               </div>
             </div>
           </motion.div>

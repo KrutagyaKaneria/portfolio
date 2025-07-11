@@ -61,7 +61,7 @@ export const ContactSection = forwardRef<HTMLElement>((_, ref) => {
           {/* Direct contact options */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-10">
             <a
-              href="mailto:himan0411singh@gmail.com"
+              href="mailto:krutagya.kaneria.cg@gmail.com"
               className="flex items-center justify-center gap-3 py-4 px-6 bg-black border border-white/20 rounded-xl hover:bg-gray-900 transition-colors"
             >
               <Mail className="h-5 w-5 text-pink-500" />
