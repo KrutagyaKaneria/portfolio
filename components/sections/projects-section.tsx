@@ -21,8 +21,8 @@ export const ProjectsSection = forwardRef<HTMLElement>((_, ref) => {
       "Stripe payment integration and AI medicine chatbot"
     ],
     techStack: ["React", "Node.js", "Express", "MongoDB", "Stripe", "JWT"],
-    github: "https://github.com/YourUsername/HealthSync",
-    liveSite: "https://your-healthsync-live-url.com/",
+    github: "https://github.com/KrutagyaKaneria/Health_sync",
+    liveSite: "https://health-sync-frontend.onrender.com/",
     src: "/healthsyncglobal_cover.jpeg"
   },
   {
@@ -34,8 +34,8 @@ export const ProjectsSection = forwardRef<HTMLElement>((_, ref) => {
       "Market price prediction API for best-selling insights"
     ],
     techStack: ["React", "Node.js", "Express", "MongoDB", "JWT"],
-    github: "https://github.com/YourUsername/AgriAuthentic",
-    liveSite: "https://your-agriauthentic-live-url.com/",
+    github: "https://github.com/KrutagyaKaneria/Team_35-AgriAuthentic",
+    liveSite: "https://agriauthentic-farmer-dashboard.onrender.com/",
     src: "/images.jpeg"
   },
   {
