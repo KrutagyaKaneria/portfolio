@@ -13,6 +13,20 @@ export const ProjectsSection = forwardRef<HTMLElement>((_, ref) => {
   // Project data
   const projects = [
   {
+    title: "PixelShrink",
+    description: "A privacy-first web tool that compresses and converts images (JPG, PNG, WebP) entirely in the browser — no server uploads, no account, no cost.",
+    features: [
+      "100% client-side browser processing using Canvas API (no server uploads)",
+      "Live quality control with real-time before/after size and reduction slider",
+      "On-the-fly format conversion (JPG, PNG, WebP) with transparency preservation",
+      "Single-click download of individual images or bulk bundle as a ZIP"
+    ],
+    techStack: ["React", "Vite", "Tailwind CSS", "Canvas API", "JSZip"],
+    github: "https://github.com/KrutagyaKaneria/PixelShrink",
+    liveSite: "https://pixel-shrink-gamma.vercel.app/",
+    src: "/pixelshrink_cover.png"
+  },
+  {
     title: "HealthSync",
     description: "Smart healthcare platform for hospital info, appointments, and patient records.",
     features: [
